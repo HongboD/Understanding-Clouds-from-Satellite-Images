@@ -1,8 +1,8 @@
 # Understanding-Clouds-from-Satellite-Images
 
-This repo is for the final project of Fall 2019 EECS 6893 BIG DATA ANALYTICS course in Columbia University, contributed by Hongbo Du(hd2452), Jiajia Chen(jc5029), Yuqin Xu(yx2478).  
+A Web App to segment user-uploaded Satellite Images with different cloud organization patterns and visualized the history cloud patterns statistics in Flask.  
 
-
+Image segmentation algorithm: U-Net with pre-trained backbone ResNet-34, and ResNeXt101 as post-processing
 ## Objective
 <ul>
 <li>Shallow clouds is an important indication of Earth’s climate. However, they are difficult to represent in climate models due to various and murky organizations.</li>
