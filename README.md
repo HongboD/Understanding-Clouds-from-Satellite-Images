@@ -1,6 +1,6 @@
 # Understanding-Clouds-from-Satellite-Images
 
-A Web App to segment user-uploaded Satellite Images with different cloud organization patterns and visualized the history cloud patterns statistics in Flask.  
+A Flask-based Web App to segment user-uploaded Satellite Images with different cloud organization patterns and visualized the history cloud patterns statistics.  
 
 Image segmentation algorithm: U-Net with pre-trained backbone ResNet-34, and ResNeXt101 as post-processing
 ## Objective
